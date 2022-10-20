@@ -1,0 +1,96 @@
+
+.main{
+    background-color: lightblue;
+    padding-top: 20px;
+
+}
+
+
+
+
+
+
+.radio{
+
+        flex: auto;
+        text-align: center;
+        text-decoration: solid;
+        font-weight: bold;
+        word-spacing: 2rem;
+        width: auto;
+        border-spacing: 2rem;
+        padding: 20px;
+        padding-left: 20px;
+      
+        
+}
+
+.from{
+        align-items: center;
+        padding: 20px;
+        text-decoration: solid;
+        border-radius: 8px;
+
+}
+.dep{
+    flex: content;
+    align-items: center;
+    padding: 10px;
+    text-decoration: solid;
+    flex: auto;
+    text-align: center;
+    font-weight: bold;
+    padding: auto;
+    
+  
+
+}
+
+.return{
+    flex: content;
+    align-items: center;
+    padding: 10px;
+    flex: auto;
+    text-align: center;
+    text-decoration: solid;
+    font-weight: bold;
+    padding: auto;
+  
+}
+
+.types{
+        flex:content;
+        align-items: center;
+        font-weight: bold;
+        padding: 20px;
+      
+
+
+}
+
+.class{
+
+        flex: auto;
+        align-items: center;
+        font-weight: bold;
+        padding: 20px;
+}
+
+.button{
+            padding: 16px 32px;
+            border-radius: 10px;
+            text-align: center;
+            display: inline-block;
+            transition-duration: 0.4s;
+            cursor: pointer;
+            size: 20%;
+
+}
+.food{
+    padding: 5px;
+    font-weight: bold;
+    padding-left: 10px;
+
+  
+ 
+}

@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+p{
+        font-size: 36px;
+        margin-bottom: 25px;
+        text-align: center;
+        font-weight: bold;
+
+
+}
+.homemain{
+        
+        justify-content: center;
+        width: 360px;
+        border-radius: 12px;
+        padding: 20px;
+        height: min-content;
+        display: flex;
+         margin-left:35%;   
+         margin-top: 50px;
+
+}
+
+.homemain form{
+        font-size: 17px;
+       
+
+}

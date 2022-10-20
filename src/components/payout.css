@@ -1,0 +1,26 @@
+.done{
+
+    font-size: 100px;
+    color: rgb(42, 209, 42);
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    font-weight: bolder;
+}
+
+h4 , h3{
+        text-align: center;
+        font-weight: bold;
+       
+
+}
+
+.logo{
+    font-size: 500%;
+    font-weight: bolder;
+    text-align: center;
+    color: #2c6fc7;
+
+}
